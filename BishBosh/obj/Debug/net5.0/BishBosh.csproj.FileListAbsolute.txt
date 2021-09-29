@@ -1,0 +1,16 @@
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\BishBosh.exe
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\BishBosh.deps.json
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\BishBosh.runtimeconfig.json
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\BishBosh.runtimeconfig.dev.json
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\BishBosh.dll
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\ref\BishBosh.dll
+C:\Users\jespe\source\repos\BishBosh\BishBosh\bin\Debug\net5.0\BishBosh.pdb
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.csproj.AssemblyReference.cache
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.AssemblyInfoInputs.cache
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.AssemblyInfo.cs
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.csproj.CoreCompileInputs.cache
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.dll
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\ref\BishBosh.dll
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.pdb
+C:\Users\jespe\source\repos\BishBosh\BishBosh\obj\Debug\net5.0\BishBosh.genruntimeconfig.cache
