@@ -6,7 +6,7 @@ namespace BishBosh
     {
         static void Main(string[] args)
         {
-            Console.Title = "Bish-Bosh game";
+            Console.Title = "Bish-Bosh";
             GameMenu();
         }
 
@@ -17,7 +17,7 @@ namespace BishBosh
 
             while (userMenuPick != 2)
             {
-                Console.WriteLine("Welcome to the Bish-Bosh game!\nChoose one of the two options:\n1. Play Bish-Bosh\n2. Quit the game");
+                Console.WriteLine("Welcome to a simple game of Bish-Bosh!\nChoose one of the two options:\n1. Play Bish-Bosh\n2. Quit the game");
                 isNumber = int.TryParse(Console.ReadLine(), out userMenuPick);
 
                 //Catch if user tries anything funny instead of numbers.
